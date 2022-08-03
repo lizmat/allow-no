@@ -1,0 +1,27 @@
+{
+  "auth": "zef:lizmat",
+  "authors": [
+    "Elizabeth Mattijsen"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "provide %*SUB-MAIN-OPTS<allow-no> for older Rakudos",
+  "license": "Artistic-2.0",
+  "name": "allow-no",
+  "perl": "6.d",
+  "provides": {
+    "allow-no": "lib/allow-no.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "https://github.com/lizmat/allow-no.git",
+  "tags": [
+    "CLI",
+    "ARGS"
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}

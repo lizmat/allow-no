@@ -1,0 +1,10 @@
+use Test;
+
+BEGIN @*ARGS = <--foo --no-bar>;
+use allow-no;
+
+plan 1;
+
+is-deeply @*ARGS, [<--foo --/bar>], 'did we convert';
+
+# vim: expandtab shiftwidth=4
