@@ -7,7 +7,7 @@
   ],
   "depends": [
   ],
-  "description": "provide %*SUB-MAIN-OPTS<allow-no> for older Rakudos",
+  "description": "provide %*SUB-MAIN-OPTS <allow-no> for older Rakudos",
   "license": "Artistic-2.0",
   "name": "allow-no",
   "perl": "6.d",

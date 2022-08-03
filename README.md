@@ -3,7 +3,7 @@
 NAME
 ====
 
-allow-no - provide %*SUB-MAIN-OPTallow-no for older Rakudos
+allow-no - provide %*SUB-MAIN-OPTS <allow-no> for older Rakudos
 
 SYNOPSIS
 ========

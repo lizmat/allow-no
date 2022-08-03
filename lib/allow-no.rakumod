@@ -4,7 +4,7 @@ INIT $_ .= subst(/^ '--no-' /, '--/') for @*ARGS;
 
 =head1 NAME
 
-allow-no - provide %*SUB-MAIN-OPTS<allow-no> for older Rakudos
+allow-no - provide %*SUB-MAIN-OPTS <allow-no> for older Rakudos
 
 =head1 SYNOPSIS
 
